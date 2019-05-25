@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WaelAchi/static/css/main.e6e65813.chunk.css",
+    "main.js": "/WaelAchi/static/js/main.790c4c8d.chunk.js",
+    "main.js.map": "/WaelAchi/static/js/main.790c4c8d.chunk.js.map",
+    "runtime~main.js": "/WaelAchi/static/js/runtime~main.59fe5508.js",
+    "runtime~main.js.map": "/WaelAchi/static/js/runtime~main.59fe5508.js.map",
+    "static/js/2.b41502e9.chunk.js": "/WaelAchi/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/WaelAchi/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/WaelAchi/index.html",
+    "precache-manifest.32b3d25d72997f46ae51917172037cb5.js": "/WaelAchi/precache-manifest.32b3d25d72997f46ae51917172037cb5.js",
+    "service-worker.js": "/WaelAchi/service-worker.js",
+    "static/css/main.e6e65813.chunk.css.map": "/WaelAchi/static/css/main.e6e65813.chunk.css.map",
+    "static/media/logo.svg": "/WaelAchi/static/media/logo.5d5d9eef.svg"
+  }
+}

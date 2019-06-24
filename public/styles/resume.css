@@ -1,9 +1,9 @@
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
-  color: #999;
+  color: #ffff;
   background: -webkit-gradient(linear, left top, right top, from(#040E20), to(#1a1B35));
-  background: linear-gradient(to right, #040E20, #1a1B35);
+  background: linear-gradient(to right, rgb(153, 185, 243), #1a1B35);
 }
 
 @media (min-width: 992px) {
@@ -22,7 +22,7 @@ h6 {
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
   text-transform: uppercase;
-  color: #e73827;
+  color: #350804;
 }
 
 h1 {
@@ -100,7 +100,7 @@ p.lead {
 
 #sideNav {
   background: -webkit-gradient(linear, left top, left bottom, from(#f85032), to(#e73827));
-  background: linear-gradient(#f85032, #e73827);
+  background: linear-gradient(#a16e65, #e73827);
   overflow: hidden;
 }
 

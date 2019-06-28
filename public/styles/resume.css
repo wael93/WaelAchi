@@ -153,7 +153,7 @@ p.lead {
     position: relative;
     z-index: 1;
     max-height: 16rem;
-    border: 0.2rem solid rgba(255, 255, 255, 0.219);
+    border: 0.2rem solid rgba(243, 232, 232, 0.219);
   }
   #sideNav .navbar-collapse {
     display: -webkit-box;
@@ -234,7 +234,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #f85032 !important;
+  color: #8d0404 !important;
 }
 
 a {

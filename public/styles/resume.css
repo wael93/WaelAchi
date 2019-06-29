@@ -99,7 +99,7 @@ p.lead {
 }
 
 #sideNav {
-  background: -webkit-gradient(linear  , from(#5d1103c2), to(#5d1103c2));
+  background: -webkit-gradient(linear  ,     from(#5d1103c2), to(#5d1103c2));
   background: linear-gradient(#41120e, #41120e);
   /* overflow: ; */
 }
